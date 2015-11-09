@@ -1,6 +1,6 @@
 name: Mr. Ledbetter
 favicon: null
-layout_spectrum: 0.25560037372633815
+layout_spectrum: 0.50232
 typography_spectrum: 0.4428729044739157
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.49861798621714115
+  brandStrength: 0.5
   lightness: 0.16404408472590148
   saturation: 0.2863245764747262
   rhythmicContrast: 0.5071143640670925
